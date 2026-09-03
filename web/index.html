@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#073B3A">
+  <meta name="description" content="Khám phá Knowledge Graph về bệnh đái tháo đường">
+  <title>GlucoGraph — Bản đồ tri thức đái tháo đường</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <svg class="svg-defs" aria-hidden="true">
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="2"/><rect x="14" y="3" width="7" height="7" rx="2"/><rect x="3" y="14" width="7" height="7" rx="2"/><rect x="14" y="14" width="7" height="7" rx="2"/></symbol>
+    <symbol id="i-network" viewBox="0 0 24 24"><circle cx="12" cy="5" r="2.5"/><circle cx="5" cy="18" r="2.5"/><circle cx="19" cy="18" r="2.5"/><path d="M10.7 7.2 6.3 15.8M13.3 7.2l4.4 8.6M7.5 18h9"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.2 4.2"/></symbol>
+    <symbol id="i-chart" viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></symbol>
+    <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M6.1 8.5A7 7 0 0 1 18.8 9M5.2 15a7 7 0 0 0 12.7.5"/></symbol>
+    <symbol id="i-expand" viewBox="0 0 24 24"><path d="M8 3H3v5M16 3h5v5M8 21H3v-5M16 21h5v-5"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M14 6l6 6-6 6"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9"/><path d="M18 13v6a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h6"/></symbol>
+    <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.2"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="m12 2 1.6 5.1L19 9l-5.4 1.9L12 16l-1.6-5.1L5 9l5.4-1.9L12 2Z"/><path d="m19 15 .8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8L19 15Z"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.5A3.5 3.5 0 0 1 7.5 2H11v17H7.5A3.5 3.5 0 0 0 4 22V5.5ZM20 5.5A3.5 3.5 0 0 0 16.5 2H13v17h3.5A3.5 3.5 0 0 1 20 22V5.5Z"/></symbol>
+  </svg>
+
+  <aside class="sidebar" aria-label="Điều hướng chính">
+    <a class="brand" href="#overview" aria-label="GlucoGraph - Trang chủ">
+      <span class="brand-mark" aria-hidden="true">
+        <span></span><span></span><span></span><span></span>
+      </span>
+      <span><b>Gluco</b>Graph<small>Diabetes knowledge map</small></span>
+    </a>
+
+    <nav class="side-nav">
+      <span class="nav-label">Không gian làm việc</span>
+      <a class="nav-link active" href="#overview" data-section="overview"><svg><use href="#i-grid"/></svg><span>Tổng quan</span></a>
+      <a class="nav-link" href="#explore" data-section="explore"><svg><use href="#i-network"/></svg><span>Khám phá đồ thị</span></a>
+      <a class="nav-link" href="#lookup" data-section="lookup"><svg><use href="#i-search"/></svg><span>Tra cứu</span></a>
+      <a class="nav-link" href="#insights" data-section="insights"><svg><use href="#i-chart"/></svg><span>Thống kê</span></a>
+    </nav>
+
+    <div class="sidebar-foot">
+      <div class="db-mini">
+        <span class="status-dot" id="sideStatusDot"></span>
+        <div><strong id="sideStatusText">Đang kiểm tra</strong><small>kg-diabet</small></div>
+      </div>
+      <p>Dữ liệu phục vụ nghiên cứu,<br>không thay thế tư vấn y khoa.</p>
+    </div>
+  </aside>
+
+  <main class="main-shell">
+    <header class="mobile-head">
+      <a class="brand compact" href="#overview"><span class="brand-mark"><span></span><span></span><span></span><span></span></span><span><b>Gluco</b>Graph</span></a>
+      <button class="icon-btn" id="mobileRefresh" aria-label="Làm mới dữ liệu"><svg><use href="#i-refresh"/></svg></button>
+    </header>
+
+    <section class="hero" id="overview">
+      <div>
+        <p class="eyebrow"><svg><use href="#i-spark"/></svg> Knowledge intelligence</p>
+        <h1>Bản đồ tri thức<br><span>đái tháo đường.</span></h1>
+        <p class="hero-copy">Kết nối bệnh lý, thuốc, triệu chứng và xét nghiệm trong một góc nhìn trực quan.</p>
+      </div>
+      <div class="hero-actions">
+        <div class="connection-pill checking" id="connectionPill" role="status">
+          <span class="status-dot"></span>
+          <span id="connectionText">Đang kết nối…</span>
+        </div>
+        <button class="soft-btn" id="refreshAll"><svg><use href="#i-refresh"/></svg><span>Làm mới</span></button>
+      </div>
+    </section>
+
+    <section class="metrics" aria-label="Thống kê tổng quan">
+      <article class="metric-card teal">
+        <div class="metric-icon"><svg><use href="#i-network"/></svg></div>
+        <div><span>Tổng thực thể</span><strong id="metricNodes">—</strong><small>nodes trong hệ tri thức</small></div>
+        <span class="metric-trend">KG</span>
+      </article>
+      <article class="metric-card blue">
+        <div class="metric-icon"><svg><use href="#i-arrow"/></svg></div>
+        <div><span>Mối quan hệ</span><strong id="metricEdges">—</strong><small>liên kết có ngữ nghĩa</small></div>
+        <span class="metric-trend">↗</span>
+      </article>
+      <article class="metric-card amber">
+        <div class="metric-icon"><svg><use href="#i-grid"/></svg></div>
+        <div><span>Loại thực thể</span><strong id="metricLabels">—</strong><small>nhóm kiến thức y khoa</small></div>
+        <span class="metric-trend">#</span>
+      </article>
+      <article class="metric-card violet">
+        <div class="metric-icon"><svg><use href="#i-spark"/></svg></div>
+        <div><span>Loại liên kết</span><strong id="metricRelTypes">—</strong><small>quan hệ trong schema</small></div>
+        <span class="metric-trend">⤴</span>
+      </article>
+    </section>
+
+    <section class="workspace-grid" id="explore">
+      <article class="panel graph-panel">
+        <div class="panel-head graph-head">
+          <div>
+            <p class="section-kicker">Trực quan tương tác</p>
+            <div class="title-row"><h2>Khám phá đồ thị</h2><span class="count-badge" id="graphCount">—</span></div>
+          </div>
+          <div class="head-actions">
+            <button class="icon-btn" id="fitGraph" title="Căn vừa đồ thị" aria-label="Căn vừa đồ thị"><svg><use href="#i-expand"/></svg></button>
+            <button class="icon-btn" id="reloadGraph" title="Tải lại đồ thị" aria-label="Tải lại đồ thị"><svg><use href="#i-refresh"/></svg></button>
+          </div>
+        </div>
+
+        <form class="graph-search" id="graphSearchForm" role="search">
+          <svg><use href="#i-search"/></svg>
+          <input id="graphSearch" type="search" autocomplete="off" placeholder="Tìm node trên đồ thị…" aria-label="Tìm node trên đồ thị">
+          <kbd>Enter</kbd>
+        </form>
+        <div class="graph-filters" id="graphFilters" aria-label="Lọc loại thực thể"></div>
+
+        <div class="graph-stage" id="graphStage">
+          <canvas id="graphCanvas" aria-label="Đồ thị tri thức tương tác"></canvas>
+          <div class="graph-grid" aria-hidden="true"></div>
+          <div class="graph-loading" id="graphLoading">
+            <span class="orbit"><i></i><i></i><i></i></span>
+            <strong>Đang kết nối các điểm tri thức…</strong>
+          </div>
+          <div class="graph-empty hidden" id="graphEmpty"><svg><use href="#i-search"/></svg><strong>Không tìm thấy thực thể</strong><span>Thử từ khóa hoặc bộ lọc khác.</span></div>
+          <div class="graph-tooltip hidden" id="graphTooltip"></div>
+          <div class="graph-legend" id="graphLegend"></div>
+          <div class="zoom-controls">
+            <button id="zoomIn" aria-label="Phóng to"><svg><use href="#i-plus"/></svg></button>
+            <button id="zoomOut" aria-label="Thu nhỏ"><svg><use href="#i-minus"/></svg></button>
+          </div>
+          <p class="graph-hint">Kéo để di chuyển · Cuộn để thu phóng · Chạm node để xem chi tiết</p>
+        </div>
+      </article>
+
+      <aside class="insight-stack" id="insights">
+        <article class="panel distribution-panel">
+          <div class="panel-head"><div><p class="section-kicker">Cấu trúc dữ liệu</p><h2>Phân bố thực thể</h2></div></div>
+          <div class="distribution-wrap">
+            <div class="donut" id="entityDonut"><div><strong>—</strong><span>thực thể</span></div></div>
+            <div class="distribution-list" id="distributionList"></div>
+          </div>
+        </article>
+
+        <article class="panel relation-panel">
+          <div class="panel-head"><div><p class="section-kicker">Liên kết nổi bật</p><h2>Quan hệ phổ biến</h2></div></div>
+          <div class="relation-bars" id="relationBars"></div>
+        </article>
+
+        <article class="panel central-panel">
+          <div class="panel-head"><div><p class="section-kicker">Độ kết nối</p><h2>Thực thể trung tâm</h2></div></div>
+          <div class="central-list" id="centralList"></div>
+        </article>
+      </aside>
+    </section>
+
+    <section class="lookup-section" id="lookup">
+      <div class="lookup-intro">
+        <div>
+          <p class="section-kicker">Thư viện tri thức</p>
+          <h2>Tra cứu nhanh</h2>
+          <p>Tìm kiếm không dấu hoặc có dấu trong toàn bộ thực thể và thuộc tính.</p>
+        </div>
+        <form class="lookup-search" id="lookupForm" role="search">
+          <svg><use href="#i-search"/></svg>
+          <input id="lookupInput" type="search" placeholder="Ví dụ: metformin, khát nước, HbA1c…" autocomplete="off" aria-label="Tra cứu kiến thức">
+          <button type="submit">Tìm kiếm</button>
+        </form>
+      </div>
+      <div class="lookup-tabs" id="lookupTabs" role="tablist"></div>
+      <div class="result-header"><span id="resultSummary">Đang tải dữ liệu…</span><span id="resultSource"></span></div>
+      <div class="result-grid" id="resultGrid" aria-live="polite"></div>
+      <div class="result-empty hidden" id="resultEmpty"><span>⌕</span><h3>Chưa tìm thấy kết quả</h3><p>Hãy thử một từ khóa ngắn hơn hoặc chọn nhóm khác.</p></div>
+      <div class="pagination" id="pagination"></div>
+    </section>
+
+    <footer>
+      <div><span class="footer-mark">G</span><p><strong>GlucoGraph</strong><br><small>Knowledge Graph · kg-diabet</small></p></div>
+      <p><svg><use href="#i-info"/></svg> Thông tin chỉ phục vụ học tập và nghiên cứu, không dùng để tự chẩn đoán hoặc điều trị.</p>
+    </footer>
+  </main>
+
+  <div class="drawer-backdrop" id="drawerBackdrop"></div>
+  <aside class="detail-drawer" id="detailDrawer" aria-hidden="true" aria-label="Chi tiết thực thể">
+    <div class="drawer-top">
+      <span class="drawer-type" id="drawerType"></span>
+      <button class="icon-btn" id="closeDrawer" aria-label="Đóng"><svg><use href="#i-close"/></svg></button>
+    </div>
+    <div id="drawerContent"></div>
+  </aside>
+
+  <nav class="mobile-nav" aria-label="Điều hướng di động">
+    <a href="#overview" class="active"><svg><use href="#i-grid"/></svg><span>Tổng quan</span></a>
+    <a href="#explore"><svg><use href="#i-network"/></svg><span>Đồ thị</span></a>
+    <a href="#lookup"><svg><use href="#i-search"/></svg><span>Tra cứu</span></a>
+    <a href="#insights"><svg><use href="#i-chart"/></svg><span>Thống kê</span></a>
+  </nav>
+
+  <div class="toast" id="toast" role="status"></div>
+  <script src="/app.js" defer></script>
+</body>
+</html>

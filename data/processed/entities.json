@@ -1,0 +1,1270 @@
+{
+  "diseases": [
+    {
+      "name": "Hạ đường huyết",
+      "description": "Hạ đường huyết là một cấp cứu nội khoa. Bệnh xảy ra khi người mắc bệnh tiểu đường không có đủ đường (glucose) trong máu. Triệu chứng hạ đường huyết thường gặp ở người bệnh tiểu đường đang được điều trị bằng insulin hoặc các thuốc tiểu đường khác nhưng không theo chỉ định của bác sĩ. Để chẩn đoán hạ đường huyết, bệnh nhân cần làm các xét nghiệm máu tại thời điểm có triệu chứng hoặc trong vòng 72 giờ nhịn đói.",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/ha-duong-huyet-294.html"
+    },
+    {
+      "name": "Tiền đái tháo đường",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glucophage-xr-500mg-merck-4x15-23116.html"
+    },
+    {
+      "name": "Tăng đường huyết",
+      "description": "Tình trạng đường huyết cao và tình trạng bệnh tiểu đường dễ nhầm lẫn với nhau. Thực tế, khi chỉ số đường huyết cao thì chưa hẳn đã mắc bệnh tiểu đường. Đôi khi, lượng đường huyết chỉ tăng cao ở một thời điểm nhất định rồi trở lại bình thường thì đây là hiện tượng sinh lý của cơ thể. Nếu lượng đường huyết thường xuyên tăng cao và không thể điều chỉnh về mức bình thường là biểu hiện của bệnh lý.",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/duong-huyet-cao-826.html"
+    },
+    {
+      "name": "Đái tháo đường",
+      "description": "Bệnh tiểu đường (Đái tháo đường) là căn bệnh mãn tính ngày càng phổ biến và đang trẻ hoá dần về độ tuổi mắc bệnh. Với các hậu quả và biến chứng phức tạp, thì đây là căn bệnh cần được quan tâm tìm hiểu để có các biện pháp phòng ngừa, nhận biết cũng như điều trị kịp thời.",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html"
+    },
+    {
+      "name": "Đái tháo đường thai kỳ",
+      "description": "Tiểu đường thai kỳ hay đái tháo đường thai kỳ gây ra những hệ quả nghiêm trọng đối với sức khỏe của cả mẹ và thai nhi. Một nghiên cứu năm 2021 báo cáo rằng tỉ lệ mắc đái tháo đường thai kỳ toàn cầu là 14,7%. Việc phòng ngừa và chẩn đoán sớm đái tháo đường thai kỳ là rất quan trọng.",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-thai-ky.html"
+    },
+    {
+      "name": "Đái tháo đường type 1",
+      "description": "Tiểu đường tuýp 1 còn có một tên gọi khác là tiểu đường phụ thuộc insulin. Nguyên nhân chính là do hệ miễn dịch của cơ thể tấn công và phá hủy các tế bào beta trong tuyến tụy - nơi sản xuất insulin. Vậy tiểu đường tuýp 1 là gì? Triệu chứng và cách điều trị tình trạng này như thế nào?",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-1.html"
+    },
+    {
+      "name": "Đái tháo đường type 2",
+      "description": "Bệnh tiểu đường type 2 còn được gọi là bệnh đái tháo đường type 2, đây là một trong những bệnh lý mạn tính phổ biến trong độ tuổi trung niên ở Việt Nam. Bệnh có nhiều biến chứng nghiêm trọng về thần kinh, mạch máu, mắt hay thận. Tuy nhiên bệnh cũng có thể được phòng ngừa hiệu quả bằng việc thay đổi lối sống.",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html"
+    },
+    {
+      "name": "Đái tháo đường ở trẻ em",
+      "description": "Tần suất mắc bệnh đái tháo đường (hay còn gọi là tiểu đường) đang gia tăng trên khắp thế giới và các nghiên cứu cho thấy trẻ em có nguy cơ mắc bệnh ngày càng cao. Theo thời gian, đái tháo đường có thể làm tổn thương tim, mạch máu, mắt, thận và các dây thần kinh, gây ra các vấn đề mãn tính và tử vong sớm.",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-o-tre-em.html"
+    }
+  ],
+  "symptoms": [
+    {
+      "name": "Buồn nôn",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/ha-duong-huyet-294.html",
+      "description": "Dấu hiệu tiêu hóa: Cảm giác đói, đau vùng thượng vị, buồn nôn, nôn, đi ngoài có thể gặp."
+    },
+    {
+      "name": "Chóng mặt",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/ha-duong-huyet-294.html",
+      "description": "Những dấu hiệu và triệu chứng của hạ đường huyết Dấu hiệu chung: Mệt xuất hiện đột ngột không giải thích được, đau đầu chóng mặt, xỉu."
+    },
+    {
+      "name": "Chậm lành vết thương",
+      "source_url": "https://nhathuoclongchau.com.vn/bai-viet/chi-so-hb1ac-y-nghia-trong-chan-doan-va-theo-doi-benh-tieu-duong-68712.html",
+      "description": "Xét nghiệm HbA1c có thể được chỉ định trong khi kiểm tra sức khỏe định kỳ, nhằm tầm soát bệnh tiểu đường (hoặc tiền tiểu đường) vì bệnh nhân có các biểu hiện như: Tiểu nhiều; Uống nhiều; Khát nhiều; Sụt cân; Nhiễm trùng lâu lành; Mờ mắt."
+    },
+    {
+      "name": "Khát nước nhiều",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những dấu hiệu và triệu chứng của bệnh tiểu đường Triệu chứng của đái tháo đường tuýp 1 Triệu chứng lâm sàng thường được gọi là hội chứng 4 nhiều: Ăn nhiều; Uống nhiều; Tiểu nhiều; Sụt cân nhiều."
+    },
+    {
+      "name": "Mệt mỏi",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Ngoài ra, bệnh nhân bị tiểu đường tuýp 1 thường có biểu hiện mệt mỏi, buồn ngủ do glucose không vào được tế bào, cơ thể thiếu năng lượng, dễ bị nhiễm khuẩn ngoài da, lao phổi."
+    },
+    {
+      "name": "Mờ mắt",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-thai-ky.html",
+      "description": "Một số thai phụ có thể xuất hiện các triệu chứng sau khi đường huyết của họ tăng quá cao: Khát nước nhiều, liên tục; Tiểu nhiều; Khô miệng ; Mệt mỏi; Mờ mắt; Ngứa vùng âm hộ, khí hư nhiều, mùi hôi."
+    },
+    {
+      "name": "Ngứa da",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-than-dai-thao-duong.html",
+      "description": "Các triệu chứng của bệnh thận mạn giai đoạn cuối có thể bao gồm: Mệt mỏi ; Cảm giác không khỏe; Ăn mất ngon; Đau đầu; Ngứa và khô da; Buồn nôn hay nôn; Phù tay và phù chân ."
+    },
+    {
+      "name": "Nôn",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/duong-huyet-cao-826.html",
+      "description": "Bạn nên liên hệ với bác sĩ nếu bạn có bất cứ dấu hiệu tăng đường huyết nào sau đây: Bạn bị tiêu chảy hoặc nôn mửa liên tục, nhưng vẫn có thể ăn và uống."
+    },
+    {
+      "name": "Rối loạn cương dương",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-than-kinh-dai-thao-duong-1.html",
+      "description": "Vấn đề về tình dục và bàng quang Bệnh thần kinh tự chủ có thể gây ra các vấn đề về tình dục như rối loạn cương dương , khô âm đạo hoặc khó đạt cực khoái."
+    },
+    {
+      "name": "Sụt cân không rõ nguyên nhân",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những dấu hiệu và triệu chứng của bệnh tiểu đường Triệu chứng của đái tháo đường tuýp 1 Triệu chứng lâm sàng thường được gọi là hội chứng 4 nhiều: Ăn nhiều; Uống nhiều; Tiểu nhiều; Sụt cân nhiều."
+    },
+    {
+      "name": "Tê bì chân tay",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-1.html",
+      "description": "Với rối loạn cảm giác, bệnh nhân thường cảm thấy châm chích, rát bỏng ở hai bàn chân hoặc đau nhức như bị bóp chặt hay bị dao đâm ở cẳng chân."
+    },
+    {
+      "name": "Vết thâm da (gai đen)",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-khong-phu-thuoc-insulin.html",
+      "description": "Nếu bạn xuất hiện dấu gai đen (acanthosis nigricans) quanh cổ hoặc nách, hãy đến gặp bác sĩ, chúng có thể là dấu hiệu cho thấy cơ thể bạn đang đề kháng insulin."
+    },
+    {
+      "name": "Đau đầu",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/ha-duong-huyet-294.html",
+      "description": "Những dấu hiệu và triệu chứng của hạ đường huyết Dấu hiệu chung: Mệt xuất hiện đột ngột không giải thích được, đau đầu chóng mặt, xỉu."
+    },
+    {
+      "name": "Đi tiểu nhiều",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những dấu hiệu và triệu chứng của bệnh tiểu đường Triệu chứng của đái tháo đường tuýp 1 Triệu chứng lâm sàng thường được gọi là hội chứng 4 nhiều: Ăn nhiều; Uống nhiều; Tiểu nhiều; Sụt cân nhiều."
+    },
+    {
+      "name": "Đói thường xuyên",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những dấu hiệu và triệu chứng của bệnh tiểu đường Triệu chứng của đái tháo đường tuýp 1 Triệu chứng lâm sàng thường được gọi là hội chứng 4 nhiều: Ăn nhiều; Uống nhiều; Tiểu nhiều; Sụt cân nhiều."
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Bút tiêm Humalog Mix 25 Kwikpen Lilly điều trị đái tháo đường (5 cây x 3ml)",
+      "generic_name": "[{'id': 78328, 'ingredientId': 23767, 'shortDescription': '300u', 'name': 'Insulin Lispro', 'isPrimary': False, 'slug': 'thanh-phan/insulin-lispro'}]",
+      "dosage_form": "Hỗn dịch tiêm",
+      "concentration": "[{'id': 78328, 'ingredientId': 23767, 'shortDescription': '300u', 'name': 'Insulin Lispro', 'isPrimary': False, 'slug': 'thanh-phan/insulin-lispro'}]",
+      "manufacturer": "Ý",
+      "specification": "Hộp 5 Cây x 3ml",
+      "prescription": true,
+      "sku": "00052508",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/humalog-mix-25-kwikpen-lilly-5-cay-x-3-ml.html"
+    },
+    {
+      "name": "Bút tiêm Humalog Mix 50/50 KwikPen điều trị đái tháo đường (5 cây x 3ml)",
+      "generic_name": "[{'id': 37317, 'ingredientId': 23767, 'shortDescription': '100u', 'name': 'Insulin Lispro', 'isPrimary': False, 'slug': 'thanh-phan/insulin-lispro'}]",
+      "dosage_form": "Hỗn dịch tiêm trong bút tiêm nạp sẵn",
+      "concentration": "[{'id': 37317, 'ingredientId': 23767, 'shortDescription': '100u', 'name': 'Insulin Lispro', 'isPrimary': False, 'slug': 'thanh-phan/insulin-lispro'}]",
+      "manufacturer": "Pháp/ Ý",
+      "specification": "Hộp 5 Cây x 3ml",
+      "prescription": true,
+      "sku": "00003825",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/humalog-mix-50-kwikpen-100uml-x-3ml-3458.html"
+    },
+    {
+      "name": "Bút tiêm Humalog Mix 75/25 KwixPen điều trị đái tháo đường (5 cây x 3ml)",
+      "generic_name": "[{'id': 37316, 'ingredientId': 23767, 'shortDescription': '300u', 'name': 'Insulin Lispro', 'isPrimary': False, 'slug': 'thanh-phan/insulin-lispro'}]",
+      "dosage_form": "Hỗn dịch tiêm trong bút tiêm nạp sẵn",
+      "concentration": "[{'id': 37316, 'ingredientId': 23767, 'shortDescription': '300u', 'name': 'Insulin Lispro', 'isPrimary': False, 'slug': 'thanh-phan/insulin-lispro'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 5 Cây x 3ml",
+      "prescription": true,
+      "sku": "00003826",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/humalog-mix-7525-kwikpen-3457.html"
+    },
+    {
+      "name": "Bút tiêm Insulatard FlexPen 100IU/ml Novo Nordisk điều trị bệnh đái tháo đường (5 cây)",
+      "generic_name": "[{'id': 14401, 'ingredientId': 41702, 'shortDescription': '300ui', 'name': 'Insulin người', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Hỗn dịch tiêm trong bút tiêm nạp sẵn",
+      "concentration": "[{'id': 14401, 'ingredientId': 41702, 'shortDescription': '300ui', 'name': 'Insulin người', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Đan Mạch",
+      "specification": "Hộp 5 Cây x 3ml",
+      "prescription": true,
+      "sku": "00003965",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/insulatard-100iu3ml-5-cay-17201.html"
+    },
+    {
+      "name": "Bút tiêm Lantus SoloStar 100 Units/ml điều trị đái tháo đường (5 cây x 3ml)",
+      "generic_name": "[{'id': 22067, 'ingredientId': 23757, 'shortDescription': '100đơn vị', 'name': 'Insulin Glargine', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Dung dịch tiêm",
+      "concentration": "[{'id': 22067, 'ingredientId': 23757, 'shortDescription': '100đơn vị', 'name': 'Insulin Glargine', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 5 Cây x 3ml",
+      "prescription": true,
+      "sku": "00004325",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/lantus-solostar-3ml-3289.html"
+    },
+    {
+      "name": "Bút tiêm Mixtard 30 Flexpen 100 IU/ml Novo Nordisk điều trị bệnh đái tháo đường (5 cây x 3ml)",
+      "generic_name": "[{'id': 44653, 'ingredientId': 42366, 'shortDescription': '210iu', 'name': 'Isophane insulin crystals', 'isPrimary': False, 'slug': ''}, {'id': 69965, 'ingredientId': 42364, 'shortDescription': '90iu', 'name': 'Solube fraction', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Hỗn dịch tiêm",
+      "concentration": "[{'id': 44653, 'ingredientId': 42366, 'shortDescription': '210iu', 'name': 'Isophane insulin crystals', 'isPrimary': False, 'slug': ''}, {'id': 69965, 'ingredientId': 42364, 'shortDescription': '90iu', 'name': 'Solube fraction', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Đan Mạch",
+      "specification": "Hộp 5 Cây x 3ml",
+      "prescription": true,
+      "sku": "00004977",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/mixtard-30-flexpen-but-17074.html"
+    },
+    {
+      "name": "Bút tiêm NovoMix 30 FlexPen Novo Nordisk điều trị đái tháo đường (5 cây x 3ml)",
+      "generic_name": "[{'id': 46537, 'ingredientId': 42396, 'shortDescription': '30%', 'name': 'Insulin aspart hòa tan', 'isPrimary': False, 'slug': ''}, {'id': 60962, 'ingredientId': 42397, 'shortDescription': '70%', 'name': 'Insulin aspart kết tinh với protamine', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Hỗn dịch tiêm trong bút tiêm nạp sẵn",
+      "concentration": "[{'id': 46537, 'ingredientId': 42396, 'shortDescription': '30%', 'name': 'Insulin aspart hòa tan', 'isPrimary': False, 'slug': ''}, {'id': 60962, 'ingredientId': 42397, 'shortDescription': '70%', 'name': 'Insulin aspart kết tinh với protamine', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Đan Mạch",
+      "specification": "Hộp 5 Cây x 3ml",
+      "prescription": true,
+      "sku": "00005390",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/novomix-100iuml-17017.html"
+    },
+    {
+      "name": "Cimetidin",
+      "generic_name": "cimetidin"
+    },
+    {
+      "name": "Corticosteroid",
+      "generic_name": "corticosteroid"
+    },
+    {
+      "name": "Dung dịch tiêm Lantus 100units/ml Sanofi điều trị đái tháo đường (10ml)",
+      "generic_name": "[{'id': 14520, 'ingredientId': 23757, 'shortDescription': '100đơn vị', 'name': 'Insulin Glargine', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Dung dịch tiêm",
+      "concentration": "[{'id': 14520, 'ingredientId': 23757, 'shortDescription': '100đơn vị', 'name': 'Insulin Glargine', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Đức",
+      "specification": "Chai x 10ml",
+      "prescription": true,
+      "sku": "00004324",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/lantus-100iuml-10ml-lo-17147.html"
+    },
+    {
+      "name": "Furosemid",
+      "generic_name": "furosemid"
+    },
+    {
+      "name": "Glimepirid",
+      "generic_name": "glimepirid"
+    },
+    {
+      "name": "Glucagon",
+      "generic_name": "glucagon"
+    },
+    {
+      "name": "Glyburid",
+      "generic_name": "glyburid"
+    },
+    {
+      "name": "Hỗn dịch tiêm Mixtard 30 Novo Nordisk điều trị bệnh đái tháo đường (10ml)",
+      "generic_name": "[{'id': 14628, 'ingredientId': 42364, 'shortDescription': '300iu', 'name': 'Solube fraction', 'isPrimary': False, 'slug': ''}, {'id': 60905, 'ingredientId': 42366, 'shortDescription': '700iu', 'name': 'Isophane insulin crystals', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Hỗn dịch tiêm",
+      "concentration": "[{'id': 14628, 'ingredientId': 42364, 'shortDescription': '300iu', 'name': 'Solube fraction', 'isPrimary': False, 'slug': ''}, {'id': 60905, 'ingredientId': 42366, 'shortDescription': '700iu', 'name': 'Isophane insulin crystals', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Đan Mạch",
+      "specification": "Chai x 10ml",
+      "prescription": true,
+      "sku": "00004976",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/mixtard-100iuml-17075.html"
+    },
+    {
+      "name": "Insulin",
+      "generic_name": "insulin"
+    },
+    {
+      "name": "Linagliptin",
+      "generic_name": "linagliptin"
+    },
+    {
+      "name": "Metformin",
+      "generic_name": "metformin"
+    },
+    {
+      "name": "Phenytoin",
+      "generic_name": "phenytoin"
+    },
+    {
+      "name": "Pioglitazon",
+      "generic_name": "pioglitazon"
+    },
+    {
+      "name": "Repaglinid",
+      "generic_name": "repaglinid"
+    },
+    {
+      "name": "Rifampicin",
+      "generic_name": "rifampicin"
+    },
+    {
+      "name": "Rosiglitazon",
+      "generic_name": "rosiglitazon"
+    },
+    {
+      "name": "Salicylat",
+      "generic_name": "salicylat"
+    },
+    {
+      "name": "Sitagliptin",
+      "generic_name": "sitagliptin"
+    },
+    {
+      "name": "Thuốc A.T Sitagliptin 100 mg An Thiên cải thiện kiểm soát đường huyết (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 62394, 'ingredientId': 36133, 'shortDescription': '100mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 62394, 'ingredientId': 36133, 'shortDescription': '100mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00044202",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/a-t-sitagliptin-100-mg-an-thien-3-x10.html"
+    },
+    {
+      "name": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 69764, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': True, 'slug': 'thanh-phan/vildagliptin'}]",
+      "dosage_form": "Viên nén",
+      "concentration": "[{'id': 69764, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': True, 'slug': 'thanh-phan/vildagliptin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00031437",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/at-vildagliptin-50mg-an-thien-3x10-31577.html"
+    },
+    {
+      "name": "Thuốc Acarbose 50 SaVi điều trị đái tháo đường (10 vỉ x 10 viên)",
+      "generic_name": "[{'id': 43970, 'ingredientId': 7235, 'shortDescription': '50mg', 'name': 'Acarbose', 'isPrimary': False, 'slug': 'thanh-phan/acarbose'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 43970, 'ingredientId': 7235, 'shortDescription': '50mg', 'name': 'Acarbose', 'isPrimary': False, 'slug': 'thanh-phan/acarbose'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00010036",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/acarbose-50mg-1412.html"
+    },
+    {
+      "name": "Thuốc Acarbose Friulchem 50mg Famar hỗ trợ điều trị đái tháo đường típ 2 (9 vỉ x 10 viên)",
+      "dosage_form": "Viên nén",
+      "manufacturer": "Ý",
+      "specification": "Hộp 9 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00031136",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/acarbose-friulchem-50mg-famar-9x10-31387.html"
+    },
+    {
+      "name": "Thuốc DAPAGLIFLOZIN TABLET 10MG Macleods điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 76854, 'ingredientId': 16705, 'shortDescription': '10mg', 'name': 'Dapagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/dapagliflozin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 76854, 'ingredientId': 16705, 'shortDescription': '10mg', 'name': 'Dapagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/dapagliflozin'}]",
+      "manufacturer": "Ấn Độ",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00052041",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/dapagliflozin-tablet-10-mg-macleods-3-x10.html"
+    },
+    {
+      "name": "Thuốc Diamicron MR 60mg Servier điều trị tiểu đường típ 2 (2 vỉ x 15 viên)",
+      "generic_name": "[{'id': 31286, 'ingredientId': 21310, 'shortDescription': '60mg', 'name': 'Gliclazide', 'isPrimary': False, 'slug': 'thanh-phan/gliclazide'}]",
+      "dosage_form": "Viên nén phóng thích có kiểm soát",
+      "concentration": "[{'id': 31286, 'ingredientId': 21310, 'shortDescription': '60mg', 'name': 'Gliclazide', 'isPrimary': False, 'slug': 'thanh-phan/gliclazide'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 2 Vỉ x 15 Viên",
+      "prescription": true,
+      "sku": "00002401",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/diamicron-mr-60mg-4015.html"
+    },
+    {
+      "name": "Thuốc Diamicron MR Servier điều trị tiểu đường típ 2 (2 vỉ x 30 viên)",
+      "generic_name": "[{'id': 21013, 'ingredientId': 21310, 'shortDescription': '30mg', 'name': 'Gliclazide', 'isPrimary': False, 'slug': 'thanh-phan/gliclazide'}]",
+      "dosage_form": "Viên nén phóng thích có kiểm soát",
+      "concentration": "[{'id': 21013, 'ingredientId': 21310, 'shortDescription': '30mg', 'name': 'Gliclazide', 'isPrimary': False, 'slug': 'thanh-phan/gliclazide'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 2 Vỉ x 30 Viên",
+      "prescription": true,
+      "sku": "00002400",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/diamicron-mr-30mg-4016.html"
+    },
+    {
+      "name": "Thuốc Fordia MR 500mg United điều trị đái tháo đường típ 2 (6 vỉ x 10 viên)",
+      "generic_name": "[{'id': 63470, 'ingredientId': 27125, 'shortDescription': '500mg', 'name': 'Metformin hydroclorid', 'isPrimary': True, 'slug': ''}]",
+      "dosage_form": "Viên nén bao phim giải phóng có kiểm soát",
+      "concentration": "[{'id': 63470, 'ingredientId': 27125, 'shortDescription': '500mg', 'name': 'Metformin hydroclorid', 'isPrimary': True, 'slug': ''}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 6 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00031316",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/fordia-mr-500mg-united-6x10-metformin-500mg-31486.html"
+    },
+    {
+      "name": "Thuốc Forxiga AstraZeneca điều trị đái tháo đường típ 2, suy tim, bệnh thận mạn (2 vỉ x 14 viên)",
+      "generic_name": "[{'id': 21460, 'ingredientId': 16705, 'shortDescription': '5mg', 'name': 'Dapagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/dapagliflozin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 21460, 'ingredientId': 16705, 'shortDescription': '5mg', 'name': 'Dapagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/dapagliflozin'}]",
+      "manufacturer": "Hoa Kỳ",
+      "specification": "Hộp 2 vỉ x 14 viên",
+      "prescription": true,
+      "sku": "00003160",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/forxiga-5mg-3712.html"
+    },
+    {
+      "name": "Thuốc Galvus 50mg Novartis hỗ trợ điều trị đái tháo đường típ 2 (2 vỉ x 14 viên)",
+      "generic_name": "[{'id': 21501, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': False, 'slug': 'thanh-phan/vildagliptin'}]",
+      "dosage_form": "Viên nén",
+      "concentration": "[{'id': 21501, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': False, 'slug': 'thanh-phan/vildagliptin'}]",
+      "manufacturer": "Tây Ban Nha",
+      "specification": "Hộp 2 vỉ x 14 viên",
+      "prescription": true,
+      "sku": "00003237",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/galvus-50mg-3677.html"
+    },
+    {
+      "name": "Thuốc Galvus Met 50mg/1000mg Novartis hỗ trợ điều trị đái tháo đường típ 2 (6 vỉ x 10 viên)",
+      "generic_name": "[{'id': 21502, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}, {'id': 21503, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': False, 'slug': 'thanh-phan/vildagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 21502, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}, {'id': 21503, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': False, 'slug': 'thanh-phan/vildagliptin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 6 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00003238",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/galvus-met-501000mg-3676.html"
+    },
+    {
+      "name": "Thuốc Galvus Met 50mg/500mg Novartis điều trị đái tháo đường típ 2 (6 vỉ x 10 viên)",
+      "generic_name": "[{'id': 21504, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}, {'id': 21505, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': False, 'slug': 'thanh-phan/vildagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 21504, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}, {'id': 21505, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': False, 'slug': 'thanh-phan/vildagliptin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 6 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00003239",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/galvus-met-50500mg-3675.html"
+    },
+    {
+      "name": "Thuốc Galvus Met 50mg/850mg Novartis hỗ trợ điều trị đái tháo đường típ 2 (6 vỉ x 10 viên)",
+      "generic_name": "[{'id': 14283, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}, {'id': 14284, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': False, 'slug': 'thanh-phan/vildagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 14283, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}, {'id': 14284, 'ingredientId': 40243, 'shortDescription': '50mg', 'name': 'Vildagliptin', 'isPrimary': False, 'slug': 'thanh-phan/vildagliptin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 6 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00003240",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/galvus-met-50850mg-6x10-17272.html"
+    },
+    {
+      "name": "Thuốc Glimepiride 2mg TV.Pharm điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 4630, 'ingredientId': 21317, 'shortDescription': '2mg', 'name': 'Glimepiride', 'isPrimary': False, 'slug': 'thanh-phan/glimepiride'}]",
+      "dosage_form": "Viên nén",
+      "concentration": "[{'id': 4630, 'ingredientId': 21317, 'shortDescription': '2mg', 'name': 'Glimepiride', 'isPrimary': False, 'slug': 'thanh-phan/glimepiride'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00027838",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glimepiride-2mg-tv-pharm-3x10-28343.html"
+    },
+    {
+      "name": "Thuốc Glimepiride 4mg Stella Pharm giảm đường huyết cho bệnh đái tháo đường típ 2 (6 vỉ x 10 viên)",
+      "generic_name": "[{'id': 21581, 'ingredientId': 21317, 'shortDescription': '4mg', 'name': 'Glimepiride', 'isPrimary': False, 'slug': 'thanh-phan/glimepiride'}]",
+      "dosage_form": "Viên nén",
+      "concentration": "[{'id': 21581, 'ingredientId': 21317, 'shortDescription': '4mg', 'name': 'Glimepiride', 'isPrimary': False, 'slug': 'thanh-phan/glimepiride'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 6 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00046911",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glimepiride-4-mg-stella-6-x10-1.html"
+    },
+    {
+      "name": "Thuốc Glimepiride Stella 2mg kiểm soát đường huyết cao ở bệnh tiểu đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 21580, 'ingredientId': 21317, 'shortDescription': '2mg', 'name': 'Glimepiride', 'isPrimary': False, 'slug': 'thanh-phan/glimepiride'}]",
+      "dosage_form": "Viên nén",
+      "concentration": "[{'id': 21580, 'ingredientId': 21317, 'shortDescription': '2mg', 'name': 'Glimepiride', 'isPrimary': False, 'slug': 'thanh-phan/glimepiride'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 3 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00003386",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glimepiride-2mg-3609.html"
+    },
+    {
+      "name": "Thuốc Glimepiride Stella 4mg kiểm soát đường huyết ở bệnh tiểu đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 21581, 'ingredientId': 21317, 'shortDescription': '4mg', 'name': 'Glimepiride', 'isPrimary': False, 'slug': 'thanh-phan/glimepiride'}]",
+      "dosage_form": "Viên nén",
+      "concentration": "[{'id': 21581, 'ingredientId': 21317, 'shortDescription': '4mg', 'name': 'Glimepiride', 'isPrimary': False, 'slug': 'thanh-phan/glimepiride'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 3 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00003387",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glimepiride-4mg-3608.html"
+    },
+    {
+      "name": "Thuốc Glipizid dwp 5mg Wealphar điều trị tiểu đường (6 vỉ x 10 viên)",
+      "generic_name": "[{'id': 68695, 'ingredientId': 21321, 'shortDescription': '5mg', 'name': 'Glipizide', 'isPrimary': False, 'slug': 'thanh-phan/glipizide'}]",
+      "dosage_form": "Viên nén",
+      "concentration": "[{'id': 68695, 'ingredientId': 21321, 'shortDescription': '5mg', 'name': 'Glipizide', 'isPrimary': False, 'slug': 'thanh-phan/glipizide'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 6 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00047330",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glipizid-5-mg-wealphar-6-x10.html"
+    },
+    {
+      "name": "Thuốc Glucophage 1000mg Merck điều trị đái tháo đường típ 2 (2 vỉ x 15 viên)",
+      "generic_name": "[{'id': 42508, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 42508, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 2 Vỉ x 15 Viên",
+      "prescription": true,
+      "sku": "00003429",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glucophage-1g-3585.html"
+    },
+    {
+      "name": "Thuốc Glucophage 500mg Merck điều trị đái tháo đường típ 2 (5 vỉ x 10 viên)",
+      "generic_name": "[{'id': 21594, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 21594, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 5 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00003430",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glucophage-500mg-3584.html"
+    },
+    {
+      "name": "Thuốc Glucophage 850mg Merck điều trị đái tháo đường típ 2 (5 vỉ x 20 viên)",
+      "generic_name": "[{'id': 21595, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 21595, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 5 Vỉ x 20 Viên",
+      "prescription": true,
+      "sku": "00003431",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glucophage-850mg-3583.html"
+    },
+    {
+      "name": "Thuốc Glucophage XR 1000mg Merck điều trị tiểu đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 44970, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén phóng thích kéo dài",
+      "concentration": "[{'id': 44970, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00003432",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glucophage-xr-1g-3582.html"
+    },
+    {
+      "name": "Thuốc Glucophage XR 500mg Merck điều trị tiểu đường típ 2 (15 vỉ x 8 viên)",
+      "generic_name": "[{'id': 32264, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén",
+      "concentration": "[{'id': 32264, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 15 vỉ x 8 viên",
+      "prescription": true,
+      "sku": "00003433",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glucophage-xr-500mg-3581.html"
+    },
+    {
+      "name": "Thuốc Glucophage XR 500mg Merck điều trị tiểu đường típ 2 (4 vỉ x 15 viên)",
+      "generic_name": "[{'id': 35959, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén phóng thích kéo dài",
+      "concentration": "[{'id': 35959, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 4 Vỉ x 15 Viên",
+      "prescription": true,
+      "sku": "00022797",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glucophage-xr-500mg-merck-4x15-23116.html"
+    },
+    {
+      "name": "Thuốc Glucophage XR 750mg Merck điều trị tiểu đường típ 2 (2 vỉ x 15 viên)",
+      "generic_name": "[{'id': 21596, 'ingredientId': 27124, 'shortDescription': '750mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén phóng thích kéo dài",
+      "concentration": "[{'id': 21596, 'ingredientId': 27124, 'shortDescription': '750mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Pháp",
+      "specification": "Hộp 2 vỉ x 15 viên",
+      "prescription": true,
+      "sku": "00003434",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glucophage-xr-1g-3580.html"
+    },
+    {
+      "name": "Thuốc Glumeform 500 DHG điều trị bệnh đái tháo đường típ 2 (10 vỉ x 10 viên)",
+      "generic_name": "[{'id': 7891, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 7891, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 10 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00020578",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glumeform-500-dhg-10x10-dieu-tri-dai-thao-duong-typ-2-20829.html"
+    },
+    {
+      "name": "Thuốc Glumeform 850 DHG điều trị bệnh đái tháo đường típ 2 (10 vỉ x 5 viên)",
+      "generic_name": "[{'id': 9721, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 9721, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 10 vỉ x 5 viên",
+      "prescription": true,
+      "sku": "00018646",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/glumeform-850-dhg-10x5-dieu-tri-dai-thao-duong-19968.html"
+    },
+    {
+      "name": "Thuốc Insulatard 100IU/ml Novo Nordisk điều trị đái tháo đường (10ml)",
+      "generic_name": "[{'id': 14402, 'ingredientId': 41702, 'shortDescription': '1000ui', 'name': 'Insulin người', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Hỗn dịch tiêm",
+      "concentration": "[{'id': 14402, 'ingredientId': 41702, 'shortDescription': '1000ui', 'name': 'Insulin người', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Đan Mạch",
+      "specification": "Chai x 10ml",
+      "prescription": true,
+      "sku": "00003966",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/insulatard-10ml-lo-17200.html"
+    },
+    {
+      "name": "Thuốc Jardiance Duo 12.5mg/850mg Boehringer điều trị tiểu đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 5209, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}, {'id': 5210, 'ingredientId': 19111, 'shortDescription': '12.5mg', 'name': 'Empagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/empagliflozin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 5209, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}, {'id': 5210, 'ingredientId': 19111, 'shortDescription': '12.5mg', 'name': 'Empagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/empagliflozin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 3 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00022654",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/jardiance-duo-125mg850mg-boehringer-3x10-22979.html"
+    },
+    {
+      "name": "Thuốc Metformin 500MG Stella điều trị tiểu đường típ 2 (6 vỉ x 10 viên)",
+      "generic_name": "[{'id': 22316, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 22316, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 6 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00050284",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-500-mg-stella-6-x10.html"
+    },
+    {
+      "name": "Thuốc Metformin 500mg TV Pharm điều trị đái tháo đường (10 vỉ x 10 viên)",
+      "generic_name": "[{'id': 58974, 'ingredientId': 41740, 'shortDescription': '500mg', 'name': 'Metformin HCl', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 58974, 'ingredientId': 41740, 'shortDescription': '500mg', 'name': 'Metformin HCl', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00041201",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-500-mg-tv-pharm-10-x10-1.html"
+    },
+    {
+      "name": "Thuốc Metformin 850mg TV.Pharm điều trị bệnh đái tháo đường (10 vỉ x 10 viên)",
+      "generic_name": "[{'id': 58975, 'ingredientId': 41740, 'shortDescription': '850mg', 'name': 'Metformin HCl', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 58975, 'ingredientId': 41740, 'shortDescription': '850mg', 'name': 'Metformin HCl', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00041202",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-850-mg-tv-pharm-10-x10.html"
+    },
+    {
+      "name": "Thuốc Metformin Boston 850 điều trị bệnh đái tháo đường típ 2 (5 vỉ x 20 viên)",
+      "generic_name": "[{'id': 56243, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 56243, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 5 Vỉ x 20 Viên",
+      "prescription": true,
+      "sku": "00039246",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-boston-850-5-x20.html"
+    },
+    {
+      "name": "Thuốc Metformin Stella 1000mg điều trị đái tháo đường típ 2 (6 vỉ x 10 viên)",
+      "generic_name": "[{'id': 1535, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén phóng thích kéo dài",
+      "concentration": "[{'id': 1535, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 6 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00030056",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-1000mg-stella-6x10-30260.html"
+    },
+    {
+      "name": "Thuốc SaVi Acarbose 25 điều trị đái tháo đường (10 vỉ x 10 viên)",
+      "generic_name": "[{'id': 59783, 'ingredientId': 7235, 'shortDescription': '25mg', 'name': 'Acarbose', 'isPrimary': True, 'slug': 'thanh-phan/acarbose'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 59783, 'ingredientId': 7235, 'shortDescription': '25mg', 'name': 'Acarbose', 'isPrimary': True, 'slug': 'thanh-phan/acarbose'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00039615",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/saviacarbose-25-mg-savipharm-10-x10.html"
+    },
+    {
+      "name": "Thuốc Sitagliptin-5A FARMA 50mg Eloge kiểm soát đường huyết ở bệnh đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 51133, 'ingredientId': 36133, 'shortDescription': '50mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 51133, 'ingredientId': 36133, 'shortDescription': '50mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00503838",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/sitagliptin-5a-farma-50mg-eloge-3x10-38147.html"
+    },
+    {
+      "name": "Thuốc Trajenta 5mg Boehringer kiểm soát đường huyết (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 23598, 'ingredientId': 25591, 'shortDescription': '5mg', 'name': 'Linagliptin', 'isPrimary': False, 'slug': 'thanh-phan/linagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 23598, 'ingredientId': 25591, 'shortDescription': '5mg', 'name': 'Linagliptin', 'isPrimary': False, 'slug': 'thanh-phan/linagliptin'}]",
+      "manufacturer": "Hoa Kỳ",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00007491",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/trajenta-5mg-1945.html"
+    },
+    {
+      "name": "Thuốc Tranagliptin 5 Tipharco điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 30787, 'ingredientId': 25591, 'shortDescription': '5mg', 'name': 'Linagliptin', 'isPrimary': False, 'slug': 'thanh-phan/linagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 30787, 'ingredientId': 25591, 'shortDescription': '5mg', 'name': 'Linagliptin', 'isPrimary': False, 'slug': 'thanh-phan/linagliptin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00029505",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/tranagliptin-v-5mg-29671.html"
+    },
+    {
+      "name": "Thuốc cản quang",
+      "generic_name": "thuốc cản quang"
+    },
+    {
+      "name": "Thuốc lợi tiểu",
+      "generic_name": "thuốc lợi tiểu"
+    },
+    {
+      "name": "Thuốc tiêm Actrapid 100 IU/ml Novo điều trị bệnh tiểu đường (10ml)",
+      "generic_name": "[{'id': 41507, 'ingredientId': 41702, 'shortDescription': '1000iu', 'name': 'Insulin người', 'isPrimary': False, 'slug': ''}]",
+      "dosage_form": "Dung dịch tiêm",
+      "concentration": "[{'id': 41507, 'ingredientId': 41702, 'shortDescription': '1000iu', 'name': 'Insulin người', 'isPrimary': False, 'slug': ''}]",
+      "manufacturer": "Đan Mạch",
+      "specification": "Chai X 10ml",
+      "prescription": true,
+      "sku": "00000513",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/actrapid-hm-100iuml-x-10ml-4864.html"
+    },
+    {
+      "name": "Thuốc tiêm Tresiba 100units/ml điều trị đái tháo đường (5 cây x 3ml)",
+      "generic_name": "[{'id': 43007, 'ingredientId': 23754, 'shortDescription': '10.98mg', 'name': 'Insulin Degludec', 'isPrimary': True, 'slug': 'thanh-phan/insulin-degludec'}]",
+      "dosage_form": "Dung dịch tiêm trong bút tiêm nạp sẵn",
+      "concentration": "[{'id': 43007, 'ingredientId': 23754, 'shortDescription': '10.98mg', 'name': 'Insulin Degludec', 'isPrimary': True, 'slug': 'thanh-phan/insulin-degludec'}]",
+      "manufacturer": "Đan Mạch",
+      "specification": "Hộp 5 Cây X 3ml",
+      "prescription": true,
+      "sku": "00500318",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/tresiba-100uiml-novonordisk-5x3ml-34435.html"
+    },
+    {
+      "name": "Thuốc ức chế men chuyển",
+      "generic_name": "thuốc ức chế men chuyển"
+    },
+    {
+      "name": "Viên nén Janumet 50mg/850mg MSD điều trị đái tháo đường típ 2 (4 vỉ x 7 viên)",
+      "generic_name": "[{'id': 21900, 'ingredientId': 41495, 'shortDescription': '850mg', 'name': 'metformin hydrochloride', 'isPrimary': False, 'slug': ''}, {'id': 21901, 'ingredientId': 36133, 'shortDescription': '50mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 21900, 'ingredientId': 41495, 'shortDescription': '850mg', 'name': 'metformin hydrochloride', 'isPrimary': False, 'slug': ''}, {'id': 21901, 'ingredientId': 36133, 'shortDescription': '50mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "manufacturer": "PUERTO RICO",
+      "specification": "Hộp 4 Vỉ x 7 Viên",
+      "prescription": true,
+      "sku": "00004027",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/janumet-50850mg-3387.html"
+    },
+    {
+      "name": "Viên nén Januvia 100mg MSD cải thiện kiểm soát đường huyết típ 2 (2 vỉ x 14 viên)",
+      "generic_name": "[{'id': 21902, 'ingredientId': 36133, 'shortDescription': '100mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 21902, 'ingredientId': 36133, 'shortDescription': '100mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "manufacturer": "Anh",
+      "specification": "Hộp 2 vỉ x 14 viên",
+      "prescription": true,
+      "sku": "00004028",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/januvia-100mg-3386.html"
+    },
+    {
+      "name": "Viên nén Januvia 50mg MSD cải thiện kiểm soát đường huyết típ 2 (2 vỉ x 14 viên)",
+      "generic_name": "[{'id': 21903, 'ingredientId': 36133, 'shortDescription': '50mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 21903, 'ingredientId': 36133, 'shortDescription': '50mg', 'name': 'Sitagliptin', 'isPrimary': False, 'slug': 'thanh-phan/sitagliptin'}]",
+      "manufacturer": "Anh",
+      "specification": "Hộp 2 vỉ x 14 viên",
+      "prescription": true,
+      "sku": "00004029",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/januvia-50mg-3385.html"
+    },
+    {
+      "name": "Viên nén Jardiance 10mg Boehringer điều trị đái tháo đường típ 2, suy tim, bệnh thận mạn tính (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 11954, 'ingredientId': 19111, 'shortDescription': '10mg', 'name': 'Empagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/empagliflozin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 11954, 'ingredientId': 19111, 'shortDescription': '10mg', 'name': 'Empagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/empagliflozin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 3 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00017456",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/jardiance-10mg-3x10-18819.html"
+    },
+    {
+      "name": "Viên nén Jardiance 25mg Boehringer điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 12117, 'ingredientId': 19111, 'shortDescription': '25mg', 'name': 'Empagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/empagliflozin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 12117, 'ingredientId': 19111, 'shortDescription': '25mg', 'name': 'Empagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/empagliflozin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00017346",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/jardiance-25mg-30v-18702.html"
+    },
+    {
+      "name": "Viên nén Jardiance Duo 12.5mg/1000mg điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 6046, 'ingredientId': 19111, 'shortDescription': '12.5mg', 'name': 'Empagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/empagliflozin'}, {'id': 6047, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 6046, 'ingredientId': 19111, 'shortDescription': '12.5mg', 'name': 'Empagliflozin', 'isPrimary': False, 'slug': 'thanh-phan/empagliflozin'}, {'id': 6047, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 3 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00022030",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/jardiance-duo-125mg1000mg-3x10-22372.html"
+    },
+    {
+      "name": "Viên nén Jardiance Duo 5mg/1000mg Boehringer điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 42365, 'ingredientId': 27125, 'shortDescription': '1000mg', 'name': 'Metformin hydroclorid', 'isPrimary': True, 'slug': ''}, {'id': 42366, 'ingredientId': 19111, 'shortDescription': '5mg', 'name': 'Empagliflozin', 'isPrimary': True, 'slug': 'thanh-phan/empagliflozin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 42365, 'ingredientId': 27125, 'shortDescription': '1000mg', 'name': 'Metformin hydroclorid', 'isPrimary': True, 'slug': ''}, {'id': 42366, 'ingredientId': 19111, 'shortDescription': '5mg', 'name': 'Empagliflozin', 'isPrimary': True, 'slug': 'thanh-phan/empagliflozin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00031238",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/jardiance-duo-5mg1000mg-3x10-31370.html"
+    },
+    {
+      "name": "Viên nén Metformin 500mg Tipharco điều trị đái tháo đường típ 2 (4 vỉ x 15 viên)",
+      "generic_name": "[{'id': 30498, 'ingredientId': 27127, 'shortDescription': '500mg', 'name': 'Metformine', 'isPrimary': True, 'slug': ''}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 30498, 'ingredientId': 27127, 'shortDescription': '500mg', 'name': 'Metformine', 'isPrimary': True, 'slug': ''}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 4 Vỉ x 15 Viên",
+      "prescription": true,
+      "sku": "00031431",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-500mg-tipharco-4x15-31581.html"
+    },
+    {
+      "name": "Viên nén Metformin 850mg Tipharco điều trị đái tháo đường không phụ thuộc insulin típ 2 (4 vỉ x 15 viên)",
+      "generic_name": "[{'id': 30497, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 30497, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 4 Vỉ x 15 Viên",
+      "prescription": true,
+      "sku": "00015970",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-850mg-tipharco-4x15-14723.html"
+    },
+    {
+      "name": "Viên nén Metformin Denk 1000 điều trị đái tháo đường típ 2 (2 vỉ x 15 viên)",
+      "generic_name": "[{'id': 50441, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 50441, 'ingredientId': 27124, 'shortDescription': '1000mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 2 Vỉ x 15 Viên",
+      "prescription": true,
+      "sku": "00029000",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-denk-1000mg-2x15-29292.html"
+    },
+    {
+      "name": "Viên nén Metformin Denk 500 điều trị đái tháo đường típ 2 (10 vỉ x 10 viên)",
+      "generic_name": "[{'id': 35962, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 35962, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "prescription": true,
+      "sku": "00004877",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-denk-500mg-3036.html"
+    },
+    {
+      "name": "Viên nén Metformin Denk 850 điều trị đái tháo đường típ 2 (8 vỉ x 15 viên)",
+      "generic_name": "[{'id': 22318, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 22318, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Đức",
+      "specification": "Hộp 8 vỉ x 15 viên",
+      "prescription": true,
+      "sku": "00004879",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-denk-850g-3035.html"
+    },
+    {
+      "name": "Viên nén Metformin Stella 500mg điều trị bệnh đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "generic_name": "[{'id': 22316, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 22316, 'ingredientId': 27124, 'shortDescription': '500mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 3 vỉ x 10 viên",
+      "prescription": true,
+      "sku": "00004874",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-500mg-3038.html"
+    },
+    {
+      "name": "Viên nén Metformin Stella 850mg điều trị bệnh đái tháo đường (4 vỉ x 15 viên)",
+      "generic_name": "[{'id': 22317, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "dosage_form": "Viên nén bao phim",
+      "concentration": "[{'id': 22317, 'ingredientId': 27124, 'shortDescription': '850mg', 'name': 'Metformin', 'isPrimary': False, 'slug': 'thanh-phan/metformin'}]",
+      "manufacturer": "Việt Nam",
+      "specification": "Hộp 4 Vỉ x 15 Viên",
+      "prescription": true,
+      "sku": "00004875",
+      "source_url": "https://nhathuoclongchau.com.vn/thuoc/metformin-850mg-stada-3037.html"
+    },
+    {
+      "name": "Voglibose",
+      "generic_name": "voglibose"
+    },
+    {
+      "name": "Warfarin",
+      "generic_name": "warfarin"
+    }
+  ],
+  "lab_tests": [
+    {
+      "name": "C-peptide",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-o-tre-em.html",
+      "description": "Các xét nghiệm nhằm phân loại đái tháo đường (chẩn đoán chính xác loại đái tháo đường mà trẻ mắc phải) bao gồm: Nồng độ C-peptide và insulin (nếu chưa được điều trị bằng insulin).",
+      "normal_range": "0.5-2.0 khi đói",
+      "unit": "nmol/L"
+    },
+    {
+      "name": "Creatinin máu",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-than-dai-thao-duong.html",
+      "description": "Xét nghiệm ACR nước tiểu: Đây là một xét nghiệm nước tiểu đơn giản, được gọi là tỷ lệ albumin/creatinin niệu, nhằm tìm kiếm các dấu hiệu cho thấy protein đang rò rỉ vào nước tiểu.",
+      "normal_range": "0.6-1.2 (nam) / 0.5-1.1 (nữ); eGFR >= 60 mL/phút/1.73m2",
+      "unit": "mg/dL"
+    },
+    {
+      "name": "Glucose huyết tương lúc đói",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Trong thực hành, đái tháo đường hoặc rối loạn glucose lúc đói thường được chẩn đoán bằng sử dụng định lượng glucose huyết tương ngẫu nhiên hoặc HbA1c.",
+      "normal_range": "70-99 (bình thường); 100-125 (tiền ĐTĐ); >= 126 (chẩn đoán ĐTĐ)",
+      "unit": "mg/dL"
+    },
+    {
+      "name": "Glucose máu bất kỳ",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Cụ thể như sau: Đường huyết bất kỳ ≥ 200 mg/dL (11,1 mmol/L) kết hợp với các triệu chứng tăng đường huyết.",
+      "normal_range": ">= 200 kèm triệu chứng lâm sàng => chẩn đoán ĐTĐ",
+      "unit": "mg/dL"
+    },
+    {
+      "name": "HbA1c",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Trong thực hành, đái tháo đường hoặc rối loạn glucose lúc đói thường được chẩn đoán bằng sử dụng định lượng glucose huyết tương ngẫu nhiên hoặc HbA1c.",
+      "normal_range": "< 5.7 (bình thường); 5.7-6.4 (tiền ĐTĐ); >= 6.5 (chẩn đoán ĐTĐ)",
+      "unit": "%"
+    },
+    {
+      "name": "Insulin máu",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-1.html",
+      "description": "Một số xét nghiệm giúp phân biệt như sau: Định lượng nồng độ insulin máu : Sự phá hủy các tế bào đảo tụy dẫn đến sự thiếu hụt trầm trọng insulin máu ở bệnh nhân tiểu đường tuýp 1, trong khi nồng độ này lại bình thường ở bệnh nhân tiểu đường tuýp 2.",
+      "normal_range": "2-25 khi đói",
+      "unit": "µU/mL"
+    },
+    {
+      "name": "Nghiệm pháp dung nạp glucose (OGTT)",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Định lượng sau khi đói từ 8-12 giờ (FPG) hoặc sau 2 giờ uống 75 g (người lớn) hoặc 1,75 g (trẻ em) dung dịch glucose đậm đặc (nghiệm pháp dung nạp glucose đường uống) là tốt nhất.",
+      "normal_range": "< 140 (bình thường); 140-199 (tiền ĐTĐ); >= 200 (chẩn đoán ĐTĐ) sau 2 giờ",
+      "unit": "mg/dL"
+    },
+    {
+      "name": "Soi đáy mắt",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-vong-mac-tieu-duong.html",
+      "description": "Soi đáy mắt : Bác sĩ dùng kính để kiểm tra võng mạc.",
+      "normal_range": "Không có tổn thương võng mạc",
+      "unit": "định tính"
+    },
+    {
+      "name": "Xét nghiệm lipid máu",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-1.html",
+      "description": "Kiểm soát các bệnh lý sẵn có: Kiểm soát tốt huyết áp và lipid máu là rất cần thiết để hạn chế các biến chứng nguy hiểm ở bệnh nhân tiểu đường.",
+      "normal_range": "LDL-C < 100; HDL-C > 40 (nam) / > 50 (nữ); Triglycerid < 150",
+      "unit": "mg/dL"
+    },
+    {
+      "name": "Xét nghiệm nước tiểu",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-than-dai-thao-duong.html",
+      "description": "Xét nghiệm ACR nước tiểu: Đây là một xét nghiệm nước tiểu đơn giản, được gọi là tỷ lệ albumin/creatinin niệu, nhằm tìm kiếm các dấu hiệu cho thấy protein đang rò rỉ vào nước tiểu.",
+      "normal_range": "Albumin niệu < 30 mg/g creatinin",
+      "unit": "mg/g creatinin"
+    },
+    {
+      "name": "Xét nghiệm đường huyết",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Cụ thể như sau: Đường huyết bất kỳ ≥ 200 mg/dL (11,1 mmol/L) kết hợp với các triệu chứng tăng đường huyết.",
+      "normal_range": "70-99 khi đói; < 140 sau ăn 2 giờ",
+      "unit": "mg/dL"
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Béo phì",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những ai có nguy cơ mắc bệnh tiểu đường Tuổi ≥ 45; Thừa cân hoặc béo phì ; Lối sống ít vận động; Tiền sử gia đình có người mắc bệnh tiểu đường; Tiền sử có suy giảm điều hòa glucose; Đái tháo đường thai kì hoặc cân nặng sau sinh > 4,1 kg; Tiền sử tăng huyết áp, bệnh tim mạch ; Rối"
+    },
+    {
+      "name": "Chế độ ăn nhiều đường",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/duong-huyet-cao-826.html",
+      "description": "Chế độ ăn uống chưa khoa học, sử dụng quá nhiều tinh bột, cà phê, nước ngọt, rượu bia, thực phẩm nhiều dầu mỡ chế biến sẵn."
+    },
+    {
+      "name": "Hút thuốc lá",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Một số yếu tố làm tăng nguy cơ mắc bệnh tiểu đường Hút thuốc lá; Béo phì, ít vận động; Phụ nữ mang thai,… Tìm hiểu thêm: Béo phì và tiểu đường có liên hệ gì với nhau?"
+    },
+    {
+      "name": "Hội chứng buồng trứng đa nang",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những ai có nguy cơ mắc bệnh tiểu đường Tuổi ≥ 45; Thừa cân hoặc béo phì ; Lối sống ít vận động; Tiền sử gia đình có người mắc bệnh tiểu đường; Tiền sử có suy giảm điều hòa glucose; Đái tháo đường thai kì hoặc cân nặng sau sinh > 4,1 kg; Tiền sử tăng huyết áp, bệnh tim mạch ; Rối"
+    },
+    {
+      "name": "Kháng insulin",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-thai-ky.html",
+      "description": "Trong quá trình mang thai, một lượng lớn hormone được sản xuất ra trong thai kỳ như hormone nhau thai (hPL), prolactin, leptin và cortisol làm tăng đề kháng insulin hoặc giảm sản xuất insulin."
+    },
+    {
+      "name": "Rối loạn giấc ngủ",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/duong-huyet-cao-826.html",
+      "description": "Căng thẳng, mất ngủ, mệt mỏi, áp lực kéo dài."
+    },
+    {
+      "name": "Rối loạn lipid máu",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những ai có nguy cơ mắc bệnh tiểu đường Tuổi ≥ 45; Thừa cân hoặc béo phì ; Lối sống ít vận động; Tiền sử gia đình có người mắc bệnh tiểu đường; Tiền sử có suy giảm điều hòa glucose; Đái tháo đường thai kì hoặc cân nặng sau sinh > 4,1 kg; Tiền sử tăng huyết áp, bệnh tim mạch ; Rối"
+    },
+    {
+      "name": "Stress",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Duy trì lối sống tích cực, hạn chế sự căng thẳng."
+    },
+    {
+      "name": "Thừa cân",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những ai có nguy cơ mắc bệnh tiểu đường Tuổi ≥ 45; Thừa cân hoặc béo phì ; Lối sống ít vận động; Tiền sử gia đình có người mắc bệnh tiểu đường; Tiền sử có suy giảm điều hòa glucose; Đái tháo đường thai kì hoặc cân nặng sau sinh > 4,1 kg; Tiền sử tăng huyết áp, bệnh tim mạch ; Rối"
+    },
+    {
+      "name": "Tiền sử gia đình / di truyền",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những ai có nguy cơ mắc bệnh tiểu đường Tuổi ≥ 45; Thừa cân hoặc béo phì ; Lối sống ít vận động; Tiền sử gia đình có người mắc bệnh tiểu đường; Tiền sử có suy giảm điều hòa glucose; Đái tháo đường thai kì hoặc cân nặng sau sinh > 4,1 kg; Tiền sử tăng huyết áp, bệnh tim mạch ; Rối"
+    },
+    {
+      "name": "Tiền sử đái tháo đường thai kỳ",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Tiền sử bản thân từng bị tiểu đường thai kỳ."
+    },
+    {
+      "name": "Tuổi cao",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-1.html",
+      "description": "Bệnh nhân nên luyện tập thể dục phù hợp với sức khỏe, tuổi tác để rèn luyện sự dẻo dai, cải thiện hoạt động của tim mạch và cải thiện tâm lý."
+    },
+    {
+      "name": "Tăng huyết áp",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những ai có nguy cơ mắc bệnh tiểu đường Tuổi ≥ 45; Thừa cân hoặc béo phì ; Lối sống ít vận động; Tiền sử gia đình có người mắc bệnh tiểu đường; Tiền sử có suy giảm điều hòa glucose; Đái tháo đường thai kì hoặc cân nặng sau sinh > 4,1 kg; Tiền sử tăng huyết áp, bệnh tim mạch ; Rối"
+    },
+    {
+      "name": "Uống rượu bia",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Bỏ thuốc lá, tránh uống nhiều rượu bia."
+    },
+    {
+      "name": "Ít vận động",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Những ai có nguy cơ mắc bệnh tiểu đường Tuổi ≥ 45; Thừa cân hoặc béo phì ; Lối sống ít vận động; Tiền sử gia đình có người mắc bệnh tiểu đường; Tiền sử có suy giảm điều hòa glucose; Đái tháo đường thai kì hoặc cân nặng sau sinh > 4,1 kg; Tiền sử tăng huyết áp, bệnh tim mạch ; Rối"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Biến chứng tim mạch",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Tìm hiểu thêm: Cách nhận biết tiểu đường thai kỳ và giải pháp can thiệp Biến chứng có thể gặp khi mắc bệnh tiểu đường Các biến chứng tiểu đường cấp tính thường do chẩn đoán muộn, điều trị không thích hợp hoặc do bệnh gan hoặc nhiễm khuẩn cấp tính bao gồm hôn mê nhiễm toan thường"
+    },
+    {
+      "name": "Bệnh thần kinh đái tháo đường",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Biến chứng mạch máu nhỏ: Bệnh lý bàn chân, biến chứng ở mắt như bệnh lý võng mạc, đục thuỷ tinh thể và glaucom; biến chứng ở thận gây tổn thương cầu thận, biến chứng thần kinh ngoại vi."
+    },
+    {
+      "name": "Bệnh thận đái tháo đường",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-thai-ky.html",
+      "description": "Đối với thai phụ, đái tháo đường thai kỳ gây một số biến chứng như: Tăng huyết áp thai kỳ và tiền sản giật : Bệnh lý này có thể dẫn đến những hậu quả nặng nề cho cả mẹ và thai nhi như đột quỵ, suy gan, suy thận, thai chậm phát triển, sinh non, thậm chí là tăng tỉ lệ tử vong chu s"
+    },
+    {
+      "name": "Bệnh võng mạc đái tháo đường",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/duong-huyet-cao-826.html",
+      "description": "Bệnh vi mạch cơ bản có 3 biểu hiện phổ biến và nặng nề của đái tháo đường: Biến chứng mắt đái tháo đường: Bệnh võng mạc, đục thủy tinh thể , Glaucoma."
+    },
+    {
+      "name": "Hôn mê tăng áp lực thẩm thấu",
+      "source_url": "https://nhathuoclongchau.com.vn/bai-viet/chi-so-duong-huyet-sau-an-2-gio-bao-nhieu-la-binh-thuong-72919.html",
+      "description": "Nếu chỉ số ở người tiểu đường vượt quá ngưỡng 10 mmol/L sau ăn, điều đó cho thấy việc kiểm soát đường huyết chưa hiệu quả, và người bệnh có nguy cơ cao gặp phải biến chứng cấp tính (như hạ đường huyết, nhiễm toan ceton , hôn mê tăng áp lực thẩm thấu) cũng như biến chứng mạn tính"
+    },
+    {
+      "name": "Hạ đường huyết",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/ha-duong-huyet-294.html",
+      "description": "Dấu hiệu thần kinh thực vật: Hạ đường huyết gây ngừng tiết insulin và làm tăng tiết các hormone điều hòa khác như glucagon, adrenalin , cortison, ACTH và GH."
+    },
+    {
+      "name": "Loét bàn chân đái tháo đường",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-1.html",
+      "description": "Biến chứng này có thể đưa đến việc cắt cụt chi bệnh nhân."
+    },
+    {
+      "name": "Mù lòa",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-vong-mac-tieu-duong.html",
+      "description": "Bệnh lý võng mạc tăng sinh: Mô sẹo và mạch máu mới hình thành trên võng mạc, yếu và dễ chảy máu, điều này có thể dẫn đến mất thị lực."
+    },
+    {
+      "name": "Nhiễm toan ceton",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-1.html",
+      "description": "Biến chứng cấp tính của bệnh tiểu đường Nhiễm toan ceton là biến chứng cấp tính rất thường gặp của bệnh tiểu đường tuýp 1."
+    },
+    {
+      "name": "Nhiễm trùng",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html",
+      "description": "Tìm hiểu thêm: Cách nhận biết tiểu đường thai kỳ và giải pháp can thiệp Biến chứng có thể gặp khi mắc bệnh tiểu đường Các biến chứng tiểu đường cấp tính thường do chẩn đoán muộn, điều trị không thích hợp hoặc do bệnh gan hoặc nhiễm khuẩn cấp tính bao gồm hôn mê nhiễm toan thường"
+    },
+    {
+      "name": "Nhồi máu cơ tim",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html",
+      "description": "Các biến chứng mạn tính như: Bệnh võng mạc, bệnh thận, bệnh lý thần kinh, đau thắt ngực và nhồi máu cơ tim , thiếu máu não thoáng qua và đột quỵ, bệnh động mạch ngoại biên."
+    },
+    {
+      "name": "Đột quỵ",
+      "source_url": "https://nhathuoclongchau.com.vn/benh/tieu-duong-thai-ky.html",
+      "description": "Đối với thai phụ, đái tháo đường thai kỳ gây một số biến chứng như: Tăng huyết áp thai kỳ và tiền sản giật : Bệnh lý này có thể dẫn đến những hậu quả nặng nề cho cả mẹ và thai nhi như đột quỵ, suy gan, suy thận, thai chậm phát triển, sinh non, thậm chí là tăng tỉ lệ tử vong chu s"
+    }
+  ],
+  "side_effects": [
+    {
+      "name": "Buồn nôn",
+      "severity": "mild"
+    },
+    {
+      "name": "Chán ăn",
+      "severity": "mild"
+    },
+    {
+      "name": "Chóng mặt",
+      "severity": "mild"
+    },
+    {
+      "name": "Giảm bạch cầu",
+      "severity": "severe"
+    },
+    {
+      "name": "Giảm tiểu cầu",
+      "severity": "severe"
+    },
+    {
+      "name": "Giảm vitamin B12",
+      "severity": "moderate"
+    },
+    {
+      "name": "Hạ đường huyết",
+      "severity": "severe"
+    },
+    {
+      "name": "Mày đay",
+      "severity": "moderate"
+    },
+    {
+      "name": "Ngứa",
+      "severity": "mild"
+    },
+    {
+      "name": "Nhiễm nấm sinh dục",
+      "severity": "moderate"
+    },
+    {
+      "name": "Nhiễm toan lactic",
+      "severity": "severe"
+    },
+    {
+      "name": "Nhiễm trùng đường tiết niệu",
+      "severity": "moderate"
+    },
+    {
+      "name": "Nhạy cảm ánh sáng",
+      "severity": "mild"
+    },
+    {
+      "name": "Nôn",
+      "severity": "moderate"
+    },
+    {
+      "name": "Phát ban",
+      "severity": "moderate"
+    },
+    {
+      "name": "Phù",
+      "severity": "moderate"
+    },
+    {
+      "name": "Phản ứng tại chỗ tiêm",
+      "severity": "mild"
+    },
+    {
+      "name": "Rối loạn chức năng gan",
+      "severity": "severe"
+    },
+    {
+      "name": "Rối loạn vị giác",
+      "severity": "mild"
+    },
+    {
+      "name": "Suy hô hấp",
+      "severity": "severe"
+    },
+    {
+      "name": "Sốc phản vệ",
+      "severity": "severe"
+    },
+    {
+      "name": "Thiếu máu",
+      "severity": "severe"
+    },
+    {
+      "name": "Tiêu chảy",
+      "severity": "moderate"
+    },
+    {
+      "name": "Táo bón",
+      "severity": "mild"
+    },
+    {
+      "name": "Tăng cân",
+      "severity": "mild"
+    },
+    {
+      "name": "Viêm tụy cấp",
+      "severity": "severe"
+    },
+    {
+      "name": "Đau bụng",
+      "severity": "mild"
+    },
+    {
+      "name": "Đau khớp",
+      "severity": "moderate"
+    },
+    {
+      "name": "Đau đầu",
+      "severity": "mild"
+    },
+    {
+      "name": "Đầy hơi",
+      "severity": "mild"
+    },
+    {
+      "name": "Ợ nóng",
+      "severity": "mild"
+    }
+  ],
+  "drug_categories": [
+    {
+      "name": "Biguanid (Metformin)"
+    },
+    {
+      "name": "Insulin"
+    },
+    {
+      "name": "Sulfonylurea"
+    },
+    {
+      "name": "Thuốc tiêm chích"
+    },
+    {
+      "name": "Thuốc tiêm chích & dịch truyền"
+    },
+    {
+      "name": "Thuốc trị tiểu đường"
+    },
+    {
+      "name": "Ức chế DPP-4 (Gliptin)"
+    },
+    {
+      "name": "Ức chế SGLT2 (Gliflozin)"
+    },
+    {
+      "name": "Ức chế alpha-glucosidase"
+    }
+  ]
+}
