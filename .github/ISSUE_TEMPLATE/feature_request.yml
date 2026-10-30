@@ -1,0 +1,24 @@
+name: Đề xuất tính năng
+description: Đề xuất cải tiến pipeline, dữ liệu hoặc dashboard
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Vấn đề cần giải quyết
+      description: Nhu cầu hoặc hạn chế hiện tại là gì?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Giải pháp đề xuất
+      description: Mô tả hành vi mong muốn và ví dụ nếu có.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Phương án khác
+      description: Có cách tiếp cận nào khác đã được cân nhắc không?

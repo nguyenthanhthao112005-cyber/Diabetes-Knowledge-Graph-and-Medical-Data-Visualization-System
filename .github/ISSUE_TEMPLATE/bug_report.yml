@@ -1,0 +1,35 @@
+name: Báo lỗi
+description: Báo một lỗi có thể tái hiện trong pipeline, API hoặc giao diện
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Mô tả lỗi
+      description: Điều gì đã xảy ra và bạn mong đợi kết quả nào?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Các bước tái hiện
+      placeholder: |
+        1. Chạy ...
+        2. Mở ...
+        3. Quan sát ...
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Môi trường
+      description: Hệ điều hành, phiên bản Python và Neo4j (nếu dùng)
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log liên quan
+      description: Hãy xóa mật khẩu, token và dữ liệu nhạy cảm trước khi gửi.
+      render: shell

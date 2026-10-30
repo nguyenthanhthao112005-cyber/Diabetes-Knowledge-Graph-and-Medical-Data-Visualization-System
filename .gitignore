@@ -4,5 +4,14 @@ venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+build/
+dist/
+*.egg-info/
+*.log
+.DS_Store
+Thumbs.db
 .idea/
 .vscode/

@@ -1,8 +1,29 @@
-# Knowledge Graph kg_diabet
+# Diabetes Knowledge Graph & Medical Data Visualization
 
-Knowledge Graph về **bệnh đái tháo đường (tiểu đường)** xây dựng trong Neo4j từ
-dữ liệu thu thập tự động trên website Nhà thuốc Long Châu
-(`nhathuoclongchau.com.vn`).
+[![CI](https://github.com/nguyenthanhthao112005-cyber/Diabetes-Knowledge-Graph-and-Medical-Data-Visualization-System/actions/workflows/ci.yml/badge.svg)](https://github.com/nguyenthanhthao112005-cyber/Diabetes-Knowledge-Graph-and-Medical-Data-Visualization-System/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-5.x-018BFF?logo=neo4j&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white)
+
+Hệ thống xây dựng **Knowledge Graph về bệnh đái tháo đường (tiểu đường)** bằng
+Neo4j, kết hợp pipeline thu thập dữ liệu, trích xuất thực thể/quan hệ y khoa và
+dashboard GlucoGraph để tra cứu, thống kê, trực quan hóa dữ liệu. Dữ liệu mẫu
+được thu thập từ website Nhà thuốc Long Châu (`nhathuoclongchau.com.vn`).
+
+> [!IMPORTANT]
+> Dự án phục vụ học tập và nghiên cứu, không thay thế tư vấn, chẩn đoán hoặc
+> điều trị của nhân viên y tế.
+
+## Tính năng chính
+
+- Pipeline 4 bước: scraping → NLP/NER → import Neo4j → truy vấn Cypher.
+- Chuẩn hóa thuật ngữ y khoa tiếng Việt bằng lexicon và luật trích xuất.
+- Dashboard force-directed tương tác, tìm kiếm không dấu, lọc theo loại node.
+- API JSON cho thống kê, tìm kiếm, đồ thị và chi tiết thực thể.
+- Chạy được ở chế độ snapshot từ `data/processed/` khi chưa có Neo4j.
+- Có notebook, dữ liệu mẫu, smoke tests và CI cho quy trình kiểm thử.
+
+## Kiến trúc
 
 ```
 Long Châu Website
@@ -20,15 +41,46 @@ Long Châu Website
   Kết quả khai thác
 ```
 
----
+## Bắt đầu nhanh
 
-## 1. Cài đặt
+Yêu cầu: Python 3.10+; Neo4j 5.x là tùy chọn nếu chỉ muốn chạy dashboard với
+dữ liệu snapshot.
 
 ```bash
+git clone https://github.com/nguyenthanhthao112005-cyber/Diabetes-Knowledge-Graph-and-Medical-Data-Visualization-System.git
+cd Diabetes-Knowledge-Graph-and-Medical-Data-Visualization-System
+
+python -m venv .venv
+# Windows PowerShell: .\.venv\Scripts\Activate.ps1
+# macOS/Linux:       source .venv/bin/activate
+
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Tạo file `.env` (đã có sẵn trong repo, sửa lại password của bạn):
+Sao chép file cấu hình mẫu:
+
+```bash
+# Windows PowerShell
+Copy-Item .env.example .env
+
+# macOS/Linux
+cp .env.example .env
+```
+
+Khởi động dashboard ngay cả khi chưa cài Neo4j:
+
+```bash
+python app.py
+```
+
+Truy cập **http://127.0.0.1:5000**.
+
+---
+
+## 1. Cấu hình Neo4j
+
+Sửa file `.env` vừa tạo và điền thông tin kết nối:
 
 ```
 NEO4J_URI=neo4j://127.0.0.1:7687
@@ -37,8 +89,7 @@ NEO4J_PASSWORD=<password của bạn>
 NEO4J_DATABASE=kg-diabet
 ```
 
-Có thể sao chép `.env.example` nếu cần tạo lại file cấu hình. `.env` đã được
-đưa vào `.gitignore` để tránh vô tình commit mật khẩu.
+`.env` đã được đưa vào `.gitignore` để tránh vô tình commit mật khẩu.
 
 > Database `kg-diabet` dùng **dấu gạch ngang**, phải tồn tại và ở trạng thái
 > *online* trong Neo4j Desktop trước khi chạy Bước 3.
@@ -53,14 +104,7 @@ Dashboard web có sẵn các chức năng:
 * giao diện responsive cho máy tính và điện thoại;
 * tự động dùng snapshot trong `data/processed/` nếu Neo4j đang tắt.
 
-Khởi động:
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
-Mở trên máy tính: **http://127.0.0.1:5000**.
+Khởi động bằng `python app.py`, sau đó mở **http://127.0.0.1:5000**.
 
 Để mở trên điện thoại, kết nối điện thoại và máy tính vào cùng Wi-Fi, sau đó
 truy cập địa chỉ LAN được in ngay khi chạy `python app.py`, ví dụ
@@ -80,6 +124,20 @@ Kiểm thử nhanh:
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+### API chính
+
+| Endpoint | Mô tả |
+|---|---|
+| `GET /api/health` | Trạng thái ứng dụng, Neo4j và nguồn dữ liệu đang dùng |
+| `GET /api/config` | Các loại node, màu hiển thị và cấu hình client |
+| `GET /api/stats` | Tổng quan số node, quan hệ và phân bố nhãn |
+| `GET /api/search?q=&label=&page=` | Tìm thực thể, hỗ trợ truy vấn tiếng Việt không dấu |
+| `GET /api/graph?q=&label=&limit=` | Lấy node và cạnh để trực quan hóa |
+| `GET /api/nodes/{id}` | Chi tiết node cùng các hàng xóm trực tiếp |
+
+API ưu tiên Neo4j khi kết nối thành công và tự động chuyển sang snapshot JSON
+khi Neo4j không khả dụng.
 
 ---
 
@@ -130,15 +188,22 @@ Sulfonylurea (7), ức chế SGLT2 (7), ức chế alpha-glucosidase (3)…
 
 | File | Vai trò |
 |------|---------|
+| `app.py` | Flask API, kết nối Neo4j và cơ chế fallback snapshot |
 | `config.py` | Cấu hình Neo4j, nguồn dữ liệu, đường dẫn, tham số scraping |
 | `lexicon.py` | Từ điển thực thể y khoa tiếng Việt (canonical + biến thể) |
 | `01_scraping.py` | Thu thập bài viết / trang bệnh / trang thuốc từ Long Châu |
 | `02_nlp_extraction.py` | Nhận diện thực thể + trích xuất quan hệ |
 | `03_import_neo4j.py` | Import vào Neo4j, tạo index, in thống kê |
 | `04_queries.py` | 15 Cypher query khai thác KG |
+| `web/` | HTML, CSS, JavaScript và favicon của dashboard GlucoGraph |
+| `tests/` | Smoke tests cho giao diện và các API chính |
 | `notebook/kg_diabet_full.ipynb` | Notebook tổng hợp toàn bộ pipeline |
 | `data/raw/` | `articles.json`, `drugs.json` |
 | `data/processed/` | `entities.json`, `relations.json` |
+| `.github/workflows/ci.yml` | GitHub Actions compile và chạy test tự động |
+
+Tài liệu dành cho người đóng góp nằm trong [CONTRIBUTING.md](CONTRIBUTING.md),
+còn hướng dẫn báo cáo lỗ hổng nằm trong [SECURITY.md](SECURITY.md).
 
 ---
 
